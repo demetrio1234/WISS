@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--AgileJ Ltd. (http://www.agilej.com)--><ajsv>
+    <diagram creationDate="2022-May-06 11:21" licenseGrade="single" licenseeName="AgileJ community member" licenseeOrganization="agilej-community" populationMethod="manual" version="1.9.2.v20190518-1152">
+        <filterScript>
+
+// no filter script yet defined for this class diagram
+// use CTRL+SPACE for completion suggestions
+
+</filterScript>
+        <class className="carta_sasso_forbisi_extended.Spiel" modelMemberId="carta_sasso_forbisi_extended.Spiel" project="Carta_Sasso_Forbici_Extended" xLocation="895" yLocation="119"/>
+        <class className="carta_sasso_forbisi_extended.SpielZuge" modelMemberId="carta_sasso_forbisi_extended.SpielZuge" project="Carta_Sasso_Forbici_Extended" xLocation="3638" yLocation="624"/>
+        <class className="carta_sasso_forbisi_extended.Teilnehmer" modelMemberId="carta_sasso_forbisi_extended.Teilnehmer" project="Carta_Sasso_Forbici_Extended" xLocation="2183" yLocation="603"/>
+        <class className="carta_sasso_forbisi_extended.Spieler" modelMemberId="carta_sasso_forbisi_extended.Spieler" project="Carta_Sasso_Forbici_Extended" xLocation="2967" yLocation="516"/>
+        <class className="carta_sasso_forbisi_extended.TiefgestelltesZeichen" modelMemberId="carta_sasso_forbisi_extended.TiefgestelltesZeichen" project="Carta_Sasso_Forbici_Extended" xLocation="601" yLocation="1352"/>
+        <class className="carta_sasso_forbisi_extended.Anleitungen" modelMemberId="carta_sasso_forbisi_extended.Anleitungen" project="Carta_Sasso_Forbici_Extended" xLocation="153" yLocation="756"/>
+        <class className="carta_sasso_forbisi_extended.StatisticsTabel" modelMemberId="carta_sasso_forbisi_extended.StatisticsTabel" project="Carta_Sasso_Forbici_Extended" xLocation="3351" yLocation="1428"/>
+        <class className="carta_sasso_forbisi_extended.Main" modelMemberId="carta_sasso_forbisi_extended.Main" project="Carta_Sasso_Forbici_Extended" xLocation="-4" yLocation="64"/>
+        <class className="carta_sasso_forbisi_extended.Computer" modelMemberId="carta_sasso_forbisi_extended.Computer" project="Carta_Sasso_Forbici_Extended" xLocation="2092" yLocation="1429"/>
+        <class className="carta_sasso_forbisi_extended.Absatz" modelMemberId="carta_sasso_forbisi_extended.Absatz" project="Carta_Sasso_Forbici_Extended" xLocation="-220" yLocation="1175"/>
+        <class className="carta_sasso_forbisi_extended.Titel" modelMemberId="carta_sasso_forbisi_extended.Titel" project="Carta_Sasso_Forbici_Extended" xLocation="749" yLocation="1111"/>
+    </diagram>
+</ajsv>
